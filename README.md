@@ -1,5 +1,3 @@
 # hello-world
 
-jajal nambah
-tem
-pret
+jajal nambah tem pret azzzz
