@@ -1,4 +1,3 @@
 # hello-world
 
-jajal nambah
-tem
+tem tem
