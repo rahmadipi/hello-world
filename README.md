@@ -1,5 +1,3 @@
 # hello-world
 
-jajal nambah tem pret azzzz
-++++
-aaaaa
+i hope i can contribute my programming skills for the community.
